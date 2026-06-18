@@ -1,6 +1,6 @@
-<!-- Encabezado Morado Pastel -->
+<!-- Encabezado Púrpura Vibrante -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=d1c4e9&height=220&section=header&text=Alessandra&fontSize=50&fontColor=fff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b5de5&height=220&section=header&text=Alessandra&fontSize=50&fontColor=fff" width="100%" />
 </div>
 
 <br />
@@ -13,9 +13,9 @@
 
 <div align="center">
   <a href="mailto:alessandraulloa16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-alessandraulloa16%40gmail.com-b39ddb?style=flat-square&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-alessandraulloa16%40gmail.com-9b5de5?style=flat-square&logo=gmail" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Ubicación-Chiapas,%20México-b39ddb?style=flat-square&logo=googlemaps" alt="Ubicación" />
+  <img src="https://img.shields.io/badge/Ubicación-Chiapas,%20México-9b5de5?style=flat-square&logo=googlemaps" alt="Ubicación" />
 </div>
 
 ---
@@ -66,15 +66,15 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AlessandraU03&show_icons=true&theme=lavender&hide_border=true" alt="Estadísticas de AlessandraU03" height="150" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AlessandraU03&show_icons=true&bg_color=0c0914&title_color=9b5de5&icon_color=9b5de5&text_color=d1c4e9&hide_border=true" alt="Estadísticas de AlessandraU03" height="150" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandraU03&layout=compact&theme=lavender&hide_border=true" alt="Lenguajes de AlessandraU03" height="150" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandraU03&layout=compact&bg_color=0c0914&title_color=9b5de5&icon_color=9b5de5&text_color=d1c4e9&hide_border=true" alt="Lenguajes de AlessandraU03" height="150" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlessandraU03&theme=lavender&hide_border=true" alt="Racha de AlessandraU03" width="95%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlessandraU03&background=0c0914&ring=9b5de5&fire=9b5de5&currStreakNum=d1c4e9&sideNums=d1c4e9&sideLabels=d1c4e9&dates=d1c4e9&hide_border=true" alt="Racha de AlessandraU03" width="95%" />
       </td>
     </tr>
   </table>
